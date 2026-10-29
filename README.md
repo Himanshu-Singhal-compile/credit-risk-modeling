@@ -53,9 +53,3 @@ python -m unittest discover -s tests -v
 CI validates notebook syntax and exercises baseline training on synthetic data; it does not download competition data or reproduce full notebook training. This is a research/portfolio experiment, without a deployed lending service, fairness evaluation, or calibrated approval policy.
 
 
-## Contributing and provenance
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the contribution workflow and
-[NOTICE.md](NOTICE.md) for source provenance and reuse terms. Dataset licenses
-are separate from code rights. No open-source license was present in the supplied
-materials, so no blanket license has been added.
